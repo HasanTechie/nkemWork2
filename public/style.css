@@ -1,10 +1,10 @@
 /*-----------------------------------------------------------------------------------
 
-	Theme Name: Canvas
-	Theme URI: http://themes.semicolonweb.com/html/canvas
+	Theme Name: Express
+	Theme URI: http://themes.semicolonweb.com/html/express
 	Description: The Multi-Purpose Template
 	Author: SemiColonWeb
-	Author URI: http://themeforest.net/user/semicolonweb
+	Author URI: http://express.net/user/semicolonweb
 	Version: 4.4
 
 -----------------------------------------------------------------------------------*/
@@ -2938,9 +2938,9 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner { left: auto; }
 	height: 100%;
 }
 
-#slider.canvas-slider .swiper-slide img { width: 100%; }
+#slider.express-slider .swiper-slide img { width: 100%; }
 
-#slider.canvas-slider a {
+#slider.express-slider a {
 	display: block;
 	height: 100%;
 }
@@ -10304,7 +10304,7 @@ body:not(.device-touch) .rounded-skill {
 
 .rounded-skill i { font-size: 42px; }
 
-.rounded-skill canvas {
+.rounded-skill express {
 	position: absolute;
 	top: 0;
 	left: 0;

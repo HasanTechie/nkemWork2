@@ -1690,18 +1690,18 @@ body #side-panel.dark #side-panel-trigger-close a {
 		border-bottom-color: rgba(255,255,255,0.1);
 	}
 
-	.dark #primary-menu.mobile-menu-off-canvas:not(.not-dark) > ul,
-	.dark #primary-menu.mobile-menu-off-canvas:not(.not-dark) > div > ul,
-	#primary-menu.mobile-menu-off-canvas.dark > ul,
-	#primary-menu.mobile-menu-off-canvas.dark > div > ul {
+	.dark #primary-menu.mobile-menu-off-express:not(.not-dark) > ul,
+	.dark #primary-menu.mobile-menu-off-express:not(.not-dark) > div > ul,
+	#primary-menu.mobile-menu-off-express.dark > ul,
+	#primary-menu.mobile-menu-off-express.dark > div > ul {
 		background-color: #333;
 		border-right: 1px solid rgba(255,255,255,0.05) !important;
 	}
 
-	.dark #primary-menu.mobile-menu-off-canvas.from-right:not(.not-dark) > ul,
-	.dark #primary-menu.mobile-menu-off-canvas.from-right:not(.not-dark) > div > ul,
-	#primary-menu.mobile-menu-off-canvas.from-right.dark > ul,
-	#primary-menu.mobile-menu-off-canvas.from-right.dark > div > ul {
+	.dark #primary-menu.mobile-menu-off-express.from-right:not(.not-dark) > ul,
+	.dark #primary-menu.mobile-menu-off-express.from-right:not(.not-dark) > div > ul,
+	#primary-menu.mobile-menu-off-express.from-right.dark > ul,
+	#primary-menu.mobile-menu-off-express.from-right.dark > div > ul {
 		border-right: 0 !important;
 		border-left: 1px solid rgba(255,255,255,0.05) !important;
 	}

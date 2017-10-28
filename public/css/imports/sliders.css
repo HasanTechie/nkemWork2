@@ -257,9 +257,9 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner { left: auto; }
 	height: 100%;
 }
 
-#slider.canvas-slider .swiper-slide img { width: 100%; }
+#slider.express-slider .swiper-slide img { width: 100%; }
 
-#slider.canvas-slider a {
+#slider.express-slider a {
 	display: block;
 	height: 100%;
 }

@@ -1,4 +1,4 @@
-var canvasEvents = {
+var expressEvents = {
 	'12-14-2015' : '<a href="http://google.com" target=_blank>Amet Temporibus ad quod enim dolor doloribus sequi!</a>',
 	'11-11-2015' : '<a href="http://google.com" target=_blank>Necessitatibus nostrum voluptatibus voluptas in sequi aperiam!</a>',
 	'10-17-2015' : '<a href="http://google.com" target=_blank>Eaque molestiae assumenda necessitatibus alias dignissimos quod facere!</a>',

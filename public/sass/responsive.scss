@@ -5,7 +5,7 @@
 
 @media only screen and (max-width: 1199px) {
 
-	canvas {
+	express {
 		max-width: 100%;
 		height: auto !important;
 	}
@@ -944,12 +944,12 @@
 		}
 	}
 
-	/* Off Canvas Menu
+	/* Off Express Menu
 	-----------------------------------------------------------------*/
 
 	body:not(.sticky-responsive-menu) {
 		#primary-menu {
-			&.mobile-menu-off-canvas {
+			&.mobile-menu-off-express {
 				> ul,
 				> div > ul {
 					position: fixed;
@@ -1304,8 +1304,8 @@
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-	.swiper_wrapper:not(.full-screen):not(.canvas-slider-grid),
-	 .swiper_wrapper:not(.full-screen):not(.canvas-slider-grid) .swiper-slide {
+	.swiper_wrapper:not(.full-screen):not(.express-slider-grid),
+	 .swiper_wrapper:not(.full-screen):not(.express-slider-grid) .swiper-slide {
 		height: 400px !important;
 	}
 
@@ -1889,7 +1889,7 @@
 	#top-search form input { padding-right: 60px; }
 
 	.swiper_wrapper:not(.force-full-screen),
-	.swiper_wrapper:not(.force-full-screen):not(.canvas-slider-grid) .swiper-slide { height: 300px !important; }
+	.swiper_wrapper:not(.force-full-screen):not(.express-slider-grid) .swiper-slide { height: 300px !important; }
 
 	.swiper_wrapper .slider-caption h2 { font-size: 36px; }
 
@@ -2068,7 +2068,7 @@
 
 
 	.swiper_wrapper:not(.force-full-screen),
-	.swiper_wrapper:not(.force-full-screen):not(.canvas-slider-grid) .swiper-slide,
+	.swiper_wrapper:not(.force-full-screen):not(.express-slider-grid) .swiper-slide,
 	.ei-slider {
 		height: 180px !important;
 	}
