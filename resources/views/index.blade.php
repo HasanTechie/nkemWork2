@@ -8,7 +8,7 @@
                 <div class="swiper-slide" style="background-image: url('images/slider/swiper/3.jpg'); background-position: center top;">
                     <div class="container clearfix">
                         <div class="slider-caption">
-                            <h2 data-caption-animate="fadeInUp">Your next hire is here</h2>
+                            <h2 data-caption-animate="fadeInUp">Find The Job That Fits Your Life</h2>
                             <p data-caption-animate="fadeInUp" data-caption-delay="200">One million success stories.</br>Start yours today.</p>
                         </div>
                     </div>
