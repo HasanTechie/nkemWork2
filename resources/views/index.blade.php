@@ -122,22 +122,6 @@
                     <span>at <a href="#">Github</a></span>
                 </div>
             </article>
-            <article class="portfolio-item pf-media pf-icons">
-                <div class="portfolio-image">
-                    <a href="/job">
-                        <img src="images/portfolio/4/4.jpg" alt="Web Developer">
-                    </a>
-                    <div class="portfolio-overlay">
-                        <a href="images/portfolio/full/4.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-                        <a href="/job" class="right-icon"><i class="icon-line-ellipsis"></i></a>
-                    </div>
-                </div>
-                <div class="portfolio-desc">
-                    <h3><a href="/job">Web Developer</a></h3>
-                    <span>at <a href="#">Google</a></span>
-                </div>
-            </article>
-
             <article class="portfolio-item pf-illustrations">
                 <div class="portfolio-image">
                     <a href="/job">
@@ -153,7 +137,6 @@
                     <span>at <a href="#">Github</a></span>
                 </div>
             </article>
-
             <article class="portfolio-item pf-media pf-icons">
                 <div class="portfolio-image">
                     <a href="/job">
@@ -169,7 +152,6 @@
                     <span>at <a href="#">Google</a></span>
                 </div>
             </article>
-
             <article class="portfolio-item pf-illustrations">
                 <div class="portfolio-image">
                     <a href="/job">
@@ -183,6 +165,21 @@
                 <div class="portfolio-desc">
                     <h3><a href="/job">Senior Engineer</a></h3>
                     <span>at <a href="#">Github</a></span>
+                </div>
+            </article>
+            <article class="portfolio-item pf-media pf-icons">
+                <div class="portfolio-image">
+                    <a href="/job">
+                        <img src="images/portfolio/4/4.jpg" alt="Web Developer">
+                    </a>
+                    <div class="portfolio-overlay">
+                        <a href="images/portfolio/full/4.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                        <a href="/job" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+                    </div>
+                </div>
+                <div class="portfolio-desc">
+                    <h3><a href="/job">Web Developer</a></h3>
+                    <span>at <a href="#">Google</a></span>
                 </div>
             </article>
 
