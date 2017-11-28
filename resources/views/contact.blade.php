@@ -142,7 +142,7 @@
                         <div class="fbox-icon">
                             <a href="#"><i class="icon-map-marker2"></i></a>
                         </div>
-                        <h3>Our Office<span class="subtitle">London, UK</span></h3>
+                        <h3>Our Office<span class="subtitle">368 Forest Road, London, E17 5JF</span></h3>
                     </div>
                 </div>
 

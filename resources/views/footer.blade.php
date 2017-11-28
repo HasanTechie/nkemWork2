@@ -21,8 +21,8 @@
                         <div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
                             <address>
                                 <strong>Office:</strong><br>
-                                795 Folsom Ave, Suite 600<br>
-                                Lonodn, UK 94107<br>
+                                368 Forest Road <br>
+                                London, E17 5JF<br>
                             </address>
                             <abbr title="Phone Number"><strong>Phone:</strong></abbr> (91) 1234 632521<br>
                             <abbr title="Fax"><strong>Fax:</strong></abbr> (91) 11 1234 1433<br>
